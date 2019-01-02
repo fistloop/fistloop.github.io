@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background: #262626;
+    background: #aba3e5;
 }
 
 ul {
@@ -16,7 +16,7 @@ ul {
 
 ul li {
     list-style: none;
-    color: #484848;
+    color: #84589d;
     font-family: arial, fantasy;
     font-size: 5em;
     letter-spacing: 15px;
@@ -25,16 +25,16 @@ ul li {
 
 @keyframes ani {
     0% {
-        color: #484848;
+        color: #beeaf7;
         text-shadow: none;
     }
     90% {
-        color: #484848;
+        color: #aba3e5;
         text-shadow: none;
     }
     100% {
-        color: #fff900;
-        text-shadow: 0 0 7px #fff900, 0 0 50px #ff6c00;
+        color: #beeaf7;
+        text-shadow: 0 0 7px #84589d, 0 0 50px #aba3e5;
     }
 }
 
